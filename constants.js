@@ -2,7 +2,7 @@ export const METADATA = {
   author: "Curtis Wilmoth",
   title: "Portfolio | Curtis Wilmoth",
   description:
-    "Curtis Wilmoth is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
+    "Curtis Wilmoth is a Frontend Developer, interested in crafting beautiful and functional applications.",
   siteUrl: "https://www.CurtisWilmoth.me/",
   twitterHandle: "@Curtis731",
   keywords: [
