@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Matthew Lavi",
-  title: "Portfolio | Matthew Lavi",
+  author: "Curtis Wilmoth",
+  title: "Portfolio | Curtis Wilmoth",
   description:
-    "Matthew Lavi is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
-  siteUrl: "https://www.MatthewLavi.me/",
-  twitterHandle: "@Matthew731",
+    "Curtis Wilmoth is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
+  siteUrl: "https://www.CurtisWilmoth.me/",
+  twitterHandle: "@Curtis731",
   keywords: [
-    "Matthew Lavi",
+    "Curtis Wilmoth",
     "Frontend Developer",
     "Web Developer",
     "React Native Developer",
@@ -55,10 +55,10 @@ export const SOCIAL_LINKS = [
     name: "mail",
     url: "mailto: oldhanddev@gmail.com",
   },
-  {
-    name: "linkedin",
-    url: "https://www.linkedin.com/in/matthew-lavi/",
-  },
+  // {
+  //   name: "linkedin",
+  //   url: "https://www.linkedin.com/in/Curtis-Wilmoth/",
+  // },
   {
     name: "github",
     url: "https://github.com/oldhand7",

@@ -11,7 +11,7 @@ const Header = ({ children }) => {
           <a href="#home" className="link">
             <Image
               src="/logo.svg"
-              alt="Logo - Matthew Lavi"
+              alt="Logo - Curtis Wilmoth"
               width={25}
               height={25}
             />

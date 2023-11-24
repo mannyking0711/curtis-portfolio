@@ -10,7 +10,7 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React 
 
-### ✨ [Live Demo](http://www.MatthewLavi.me/)
+### ✨ [Live Demo](http://www.CurtisWilmoth.me/)
 
 ## Getting Started 
 

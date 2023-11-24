@@ -65,7 +65,7 @@ const Footer = () => {
                   ❤️
                 </span>
               </button>{" "}
-              by <span className="text-white">Matthew Lavi</span>
+              by <span className="text-white">Curtis Wilmoth</span>
             </p>
           </div>
         </div>

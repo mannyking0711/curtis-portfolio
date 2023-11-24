@@ -87,8 +87,8 @@ const Hero = () => {
           Hi, my name is
         </h5>
         <h1 className={`${styles.heroName} text-white text-6xl font-semibold`}>
-          <span className={`relative ${styles.emphasize} seq`}>Matthew</span>
-          <span className="seq"> Lavi</span>
+          <span className={`relative ${styles.emphasize} seq`}>Curtis</span>
+          <span className="seq"> Wilmoth</span>
         </h1>
         <p>
           <span

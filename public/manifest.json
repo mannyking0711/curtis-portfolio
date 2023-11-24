@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Portfolio | Matthew Lavi",
-  "short_name": "Matthew Lavi",
-  "description": "Matthew Lavi's Portfolio Website.",
+  "name": "Portfolio | Curtis Wilmoth",
+  "short_name": "Curtis Wilmoth",
+  "description": "Curtis Wilmoth's Portfolio Website.",
   "icons": [
     {
       "src": "/icon-192x192.png",
