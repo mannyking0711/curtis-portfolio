@@ -16,8 +16,6 @@ export const METADATA = {
     "Devfolio",
     "Folio",
   ].join(", "),
-  image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1690572126/preview.png",
   language: "English",
 };
 
